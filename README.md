@@ -1,2 +1,0 @@
-# datasciencecouseera
-Homework
